@@ -40,7 +40,8 @@ Bu projede, temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleşti
 
 ## Onuncu Proje: EfTravel Projesi
 
-![image](https://imgur.com/a/0uIa9eh)
+![aaa görseli](https://raw.githubusercontent.com/ycelbeyli/CSharpEgitimKampi/master/aaa.png)
+
 
 Bu projede Entity Framework kullanarak bir seyahat veri tabanındaki bilgileri sorgulayıp görselleştiren bir istatistik paneli geliştirdim. Proje, Windows Forms üzerinde çeşitli istatistikleri canlı olarak kullanıcıya göstermeyi amaçladı. 💻
 
